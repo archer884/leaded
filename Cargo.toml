@@ -3,3 +3,12 @@
 name = "leaded"
 version = "0.0.1"
 authors = ["J/A <archer884@gmail.com>"]
+
+[dependencies]
+
+iron = "*" #samples at: https://github.com/iron/iron/tree/master/examples 
+router = "*" #samples at: https://github.com/iron/router
+rustc-serialize = "*"
+# nickel = "*"
+# conduit = "*" # used on crates.io
+# rustful = "*"
